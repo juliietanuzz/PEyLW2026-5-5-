@@ -1,0 +1,16 @@
+.top, .izqui, .centro, .der{
+    background-color: grey;
+    height: 80px;
+    width: 100%;
+    border: 3px solid gainsboro;
+    margin: 10px;
+}
+.cont{
+    display: flex;
+}
+.izqui, .centro, .der{
+    height: 500px;
+}
+.izqui, .der{
+    width: 250px;
+}
